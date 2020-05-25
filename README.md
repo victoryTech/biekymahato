@@ -1,2 +1,3 @@
-# biekymahato.github.io
-My Resume
+# My Resume
+
+# Using HTML, CSS, BOOTSTRAP And FLEX 
